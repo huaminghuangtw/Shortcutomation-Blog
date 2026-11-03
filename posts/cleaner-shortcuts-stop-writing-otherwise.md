@@ -1,9 +1,10 @@
 ---
 title: "Cleaner Shortcuts: Stop Writing “Otherwise”"
 created: 2026-08-23
-modified: 2026-09-24
+modified: 2026-08-29
 draft: true
-tags: []
+tags:
+  - dev-tip
 ---
 
 //todo: another screenshot
